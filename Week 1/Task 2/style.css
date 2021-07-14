@@ -1,0 +1,12 @@
+h3 {
+  font-size: 10px;
+  margin-left: 20px;
+}
+table {
+  color: green;
+  font-family: Papyrus;
+}
+
+div {
+  columns: 2;
+}
